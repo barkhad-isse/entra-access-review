@@ -1,0 +1,354 @@
+{
+  "collectedAt": "2026-10-20T08:00:00Z",
+  "tenant": "nordlys.example",
+  "note": "Fictional demo tenant. All names are invented.",
+  "breakGlassAccounts": [
+    "breakglass-01@nordlys.example",
+    "breakglass-02@nordlys.example"
+  ],
+  "users": [
+    {
+      "id": "u01",
+      "displayName": "Anna Berg",
+      "userPrincipalName": "anna.berg@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-19T07:12:00Z"
+    },
+    {
+      "id": "u02",
+      "displayName": "Break Glass 01",
+      "userPrincipalName": "breakglass-01@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-09-10T10:00:00Z"
+    },
+    {
+      "id": "u03",
+      "displayName": "Break Glass 02",
+      "userPrincipalName": "breakglass-02@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-09-10T10:05:00Z"
+    },
+    {
+      "id": "u04",
+      "displayName": "Ole Hansen",
+      "userPrincipalName": "ole.hansen@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": true,
+      "lastSignInDateTime": "2026-10-18T13:40:00Z"
+    },
+    {
+      "id": "u05",
+      "displayName": "Kari Nilsen",
+      "userPrincipalName": "kari.nilsen@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-17T08:02:00Z"
+    },
+    {
+      "id": "u06",
+      "displayName": "Per Olsen",
+      "userPrincipalName": "per.olsen@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-03-30T11:20:00Z"
+    },
+    {
+      "id": "u07",
+      "displayName": "Lars Dahl",
+      "userPrincipalName": "lars.dahl@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": false,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-06-01T09:00:00Z"
+    },
+    {
+      "id": "u08",
+      "displayName": "Ingrid Lie",
+      "userPrincipalName": "ingrid.lie@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2026-06-15T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": null
+    },
+    {
+      "id": "u09",
+      "displayName": "Jonas Vik",
+      "userPrincipalName": "jonas.vik@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-06-08T15:00:00Z"
+    },
+    {
+      "id": "u10",
+      "displayName": "Sara Moe",
+      "userPrincipalName": "sara.moe@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-20T06:30:00Z"
+    },
+    {
+      "id": "u11",
+      "displayName": "Erik Strand",
+      "userPrincipalName": "erik.strand@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-16T12:00:00Z"
+    },
+    {
+      "id": "u12",
+      "displayName": "Nina Aas",
+      "userPrincipalName": "nina.aas@nordlys.example",
+      "userType": "Member",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": null,
+      "externalUserStateChangeDateTime": null,
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-15T09:45:00Z"
+    },
+    {
+      "id": "u13",
+      "displayName": "Mats Konsulent (ext)",
+      "userPrincipalName": "mats_partner.example#EXT#@nordlys.example",
+      "userType": "Guest",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": "Accepted",
+      "externalUserStateChangeDateTime": "2025-11-02T10:00:00Z",
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-10-12T10:00:00Z"
+    },
+    {
+      "id": "u14",
+      "displayName": "Lena Vendor (ext)",
+      "userPrincipalName": "lena_vendor.example#EXT#@nordlys.example",
+      "userType": "Guest",
+      "accountEnabled": true,
+      "createdDateTime": "2026-08-01T10:00:00Z",
+      "externalUserState": "PendingAcceptance",
+      "externalUserStateChangeDateTime": "2026-08-01T10:00:00Z",
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": null
+    },
+    {
+      "id": "u15",
+      "displayName": "Tom Auditor (ext)",
+      "userPrincipalName": "tom_audit.example#EXT#@nordlys.example",
+      "userType": "Guest",
+      "accountEnabled": true,
+      "createdDateTime": "2024-03-01T09:00:00Z",
+      "externalUserState": "Accepted",
+      "externalUserStateChangeDateTime": "2025-01-15T10:00:00Z",
+      "onPremisesSyncEnabled": false,
+      "lastSignInDateTime": "2026-05-10T09:00:00Z"
+    }
+  ],
+  "roleAssignments": [
+    {
+      "principalId": "u01",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "eligible",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u02",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u03",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u04",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u05",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "User Administrator",
+      "roleTemplateId": "fe930be7-5e62-47db-91af-98c3a49a38b1",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u05",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Exchange Administrator",
+      "roleTemplateId": "29232cdf-9323-42fd-ade2-1d097af3e4de",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u05",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "SharePoint Administrator",
+      "roleTemplateId": "f28a1f50-f6e7-4571-818b-6a12f2af6b6c",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u05",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Security Administrator",
+      "roleTemplateId": "194ae4cb-b126-40b2-bd5b-6091b380977d",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u06",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Application Administrator",
+      "roleTemplateId": "9b895d92-2cd3-44c7-9d02-a6ac2d5ea5c3",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u07",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Intune Administrator",
+      "roleTemplateId": "3a2c62db-5318-420d-8d74-23affee5d9d5",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u11",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Privileged Role Administrator",
+      "roleTemplateId": "e8611ab8-c189-46e8-94e1-60213ab1f814",
+      "assignmentType": "active",
+      "viaGroup": "SG-Tier0-RoleAdmins"
+    },
+    {
+      "principalId": "u12",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Security Administrator",
+      "roleTemplateId": "194ae4cb-b126-40b2-bd5b-6091b380977d",
+      "assignmentType": "eligible",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u13",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "u10",
+      "principalType": "user",
+      "principalName": null,
+      "roleName": "Directory Readers",
+      "roleTemplateId": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "sp01",
+      "principalType": "servicePrincipal",
+      "principalName": "legacy-hr-sync",
+      "roleName": "Global Administrator",
+      "roleTemplateId": "62e90394-69f5-4237-9190-012177145e10",
+      "assignmentType": "active",
+      "viaGroup": null
+    },
+    {
+      "principalId": "sp02",
+      "principalType": "servicePrincipal",
+      "principalName": "ci-deploy-app",
+      "roleName": "Application Administrator",
+      "roleTemplateId": "9b895d92-2cd3-44c7-9d02-a6ac2d5ea5c3",
+      "assignmentType": "active",
+      "viaGroup": null
+    }
+  ],
+  "mfaRegistered": {
+    "u01": true,
+    "u02": true,
+    "u03": true,
+    "u04": true,
+    "u05": false,
+    "u06": true,
+    "u07": true,
+    "u08": false,
+    "u09": true,
+    "u10": true,
+    "u11": true,
+    "u12": true,
+    "u13": false,
+    "u14": false,
+    "u15": true
+  }
+}
